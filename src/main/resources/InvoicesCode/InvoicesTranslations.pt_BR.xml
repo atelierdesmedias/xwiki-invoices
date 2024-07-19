@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.1" encoding="UTF-8"?>
 
 <!--
@@ -136,3 +137,6 @@ InvoicesCode.InvoiceClass_customer_address=Endereço do cliente
 ### Missing: invoices.addcustomerobject=Add new customer object
 </content>
   </xwikidoc>
+=======
+
+>>>>>>> 839411a (Added translation using Weblate (Portuguese (Brazil)))
